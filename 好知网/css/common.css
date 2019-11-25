@@ -1,0 +1,15 @@
+
+/*公共样式*/
+body{
+	margin: 0 auto;
+	font-size:14px;
+	font-family: "Microsoft Yahei";
+}
+a{
+	cursor: pointer;
+}
+/*公共类*/
+.inner{
+	width: 1140px;
+	margin:0 auto;
+}
