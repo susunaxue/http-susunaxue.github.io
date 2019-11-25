@@ -1,0 +1,53 @@
+@charset "utf-8"
+
+html{
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+	margin:0;
+	padding:0;
+}
+a{
+	text-decoration: none;
+	color: #667aa3;
+}
+ul,ol{
+	list-style: none;
+}
+h1,h2,h3,h4,h5,h6{
+	font-weight: normal;
+}
+input{
+	border: none;
+}
+em,
+strong,
+b,
+u,
+i {
+	font-style:normal;
+	font-weight:normal;
+}
+img {
+	border: 0 none;
+}
